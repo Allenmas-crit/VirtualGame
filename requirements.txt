@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+cvzone==1.5.1
+Pillow==10.1.0
+mediapipe==0.10.14
+numpy==1.26.1
